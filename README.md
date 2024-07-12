@@ -21,7 +21,7 @@
 <!--  <a href="#screenshots">Screenshots</a> • -->
 <!--  <a href="#contributing">Contributing</a> • -->
   <a href="#license">License</a>
-</p>
+</p><hr>
   <p align="center">
   <b><i>Please send me a message on Github, email, or text- if you would like to decrypt and use the Inventory Tracker.<br>Its a VERY quick process; PLEASE do not hesitate to reach out.<br>I will provide you with all of the passwords to decrypt all of the files from the signed archive.</b></i><br>
   <hr></p>
